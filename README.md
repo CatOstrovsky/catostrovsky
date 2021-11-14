@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey there 👋
+I'm a game developer👨‍🔬. And I'm glad to see you here!
+My background:
+1. JavaScript - game development and websites
+2. PHP - websites. I have experience with Laravel, MODX, Wordpress, OctoberCMS, etc.
+3. NodeJs - used to create game servers based on socket.io, VueJS, NuxtJS and some console applications.
+4. HTML + CSS + SAAS - websites
+5. C # - Development of games on UnityEngine and .ASP
+6. Java - applications for Android
 
-<!--
-**CatOstrovsky/catostrovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more information visit my website: 😸 http://catostrovsky.ru/
+Have a nice day! 🙌🙌🙌
